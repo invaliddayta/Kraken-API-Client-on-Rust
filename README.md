@@ -11,5 +11,5 @@
 
 *Long-term Objectives*
 * create Database for API Clients
-* cost average across multiple APIs
+* cost averaging across multiple APIs
 * alerts, orders, bots
