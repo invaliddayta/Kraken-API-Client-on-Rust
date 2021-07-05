@@ -4,7 +4,7 @@
  Incooperation of Kraken API (potentially other) in Rust.
 
 *Short-term Objectives*
-* learn to code in Rust
+* learn to code with Rust
 * toy around with API client 
 * temporal data storage
 * graphic linux cmd output
