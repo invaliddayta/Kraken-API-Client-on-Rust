@@ -1,11 +1,11 @@
 # Kraken API Client on Rust 
 
 **Project Description:**
- Incooperation of Kraken API (potentially other) in Rust.
+ Incooperation of Kraken API client (potentially other) in Rust.
 
 *Short-term Objectives*
 * learn to code with Rust
-* toy around with API client 
+* toy around with API clients 
 * temporal data storage
 * graphic linux cmd output
 
